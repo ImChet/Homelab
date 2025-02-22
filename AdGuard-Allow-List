@@ -1,0 +1,20 @@
+@@||cdn.jsdelivr.net^$important
+! Legit content delivery
+@@||t.co^$important
+! Twitter redirects
+@@||fc.yahoo.com^$important
+! Yahoo finance
+@@/(\.|^)icloud\.com$/$important
+! iCloud
+@@/(\.|^)apple\.com$/$important
+! Apple
+@@/(\.|^)ubisoft\.com$/$important
+! Ubisoft
+@@/(\.|^)microsoft\.com$/$important
+! Microsoft
+@@/(\.|^)netease\.com$/$important
+! Marvel Rivals
+@@/(\.|^)easebar\.com$/$important
+! Marvel Rivals
+@@/(\.|^)epicgames\.com$/$important
+! Epic Games
