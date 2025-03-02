@@ -1,20 +1,22 @@
-@@||cdn.jsdelivr.net^$important
+! Commenting out for testing
+
+!@@||cdn.jsdelivr.net^$important
 ! Legit content delivery
-@@||t.co^$important
+!@@||t.co^$important
 ! Twitter redirects
-@@||fc.yahoo.com^$important
+!@@||fc.yahoo.com^$important
 ! Yahoo finance
-@@/(\.|^)icloud\.com$/$important
+!@@/(\.|^)icloud\.com$/$important
 ! iCloud
-@@/(\.|^)apple\.com$/$important
+!@@/(\.|^)apple\.com$/$important
 ! Apple
-@@/(\.|^)ubisoft\.com$/$important
+!@@/(\.|^)ubisoft\.com$/$important
 ! Ubisoft
-@@/(\.|^)microsoft\.com$/$important
+!@@/(\.|^)microsoft\.com$/$important
 ! Microsoft
-@@/(\.|^)netease\.com$/$important
+!@@/(\.|^)netease\.com$/$important
 ! Marvel Rivals
-@@/(\.|^)easebar\.com$/$important
+!@@/(\.|^)easebar\.com$/$important
 ! Marvel Rivals
-@@/(\.|^)epicgames\.com$/$important
+!@@/(\.|^)epicgames\.com$/$important
 ! Epic Games
