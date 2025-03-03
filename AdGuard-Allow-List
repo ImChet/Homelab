@@ -6,7 +6,7 @@
 ! Twitter redirects
 !@@||fc.yahoo.com^$important
 ! Yahoo finance
-!@@/(\.|^)icloud\.com$/$important
+@@/(\.|^)icloud\.com$/$important
 ! iCloud
 !@@/(\.|^)apple\.com$/$important
 ! Apple
