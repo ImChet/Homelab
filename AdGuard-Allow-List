@@ -21,5 +21,7 @@
 
 @@/(\.|^)xy\.fbcdn\.net$/$important
 ! Facebook CDN
+@@/(\.|^)xz\.fbcdn\.net$/$important
+! Facebook CDN
 @@/(\.|^)icloud\.com$/$important
 ! iCloud
