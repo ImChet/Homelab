@@ -6,8 +6,6 @@
 ! Twitter redirects
 !@@||fc.yahoo.com^$important
 ! Yahoo finance
-@@/(\.|^)icloud\.com$/$important
-! iCloud
 !@@/(\.|^)apple\.com$/$important
 ! Apple
 !@@/(\.|^)ubisoft\.com$/$important
@@ -20,3 +18,8 @@
 ! Marvel Rivals
 !@@/(\.|^)epicgames\.com$/$important
 ! Epic Games
+
+||xy.fbcdn.net^
+! Facebook CDN
+@@/(\.|^)icloud\.com$/$important
+! iCloud
