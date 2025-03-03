@@ -19,7 +19,7 @@
 !@@/(\.|^)epicgames\.com$/$important
 ! Epic Games
 
-||xy.fbcdn.net^
+@@/(\.|^)xy\.fbcdn\.net$/$important
 ! Facebook CDN
 @@/(\.|^)icloud\.com$/$important
 ! iCloud
