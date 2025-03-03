@@ -12,10 +12,6 @@
 ! Ubisoft
 !@@/(\.|^)microsoft\.com$/$important
 ! Microsoft
-!@@/(\.|^)netease\.com$/$important
-! Marvel Rivals
-!@@/(\.|^)easebar\.com$/$important
-! Marvel Rivals
 !@@/(\.|^)epicgames\.com$/$important
 ! Epic Games
 
@@ -27,3 +23,6 @@
 ! Facebook
 @@/(\.|^)icloud\.com$/$important
 ! iCloud
+@@/(\.|^)netease\.com$/$important
+@@/(\.|^)easebar\.com$/$important
+! Marvel Rivals
