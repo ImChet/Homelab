@@ -26,3 +26,5 @@
 @@/(\.|^)netease\.com$/$important
 @@/(\.|^)easebar\.com$/$important
 ! Marvel Rivals
+@@||cdn.tzatzikiweeb.moe$/$important
+! Decky Plugin
