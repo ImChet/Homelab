@@ -1,30 +1,71 @@
-! Commenting out for testing
-
 !@@||cdn.jsdelivr.net^$important
-! Legit content delivery
 !@@||t.co^$important
-! Twitter redirects
 !@@||fc.yahoo.com^$important
-! Yahoo finance
 !@@/(\.|^)apple\.com$/$important
-! Apple
 !@@/(\.|^)ubisoft\.com$/$important
-! Ubisoft
 !@@/(\.|^)microsoft\.com$/$important
-! Microsoft
 !@@/(\.|^)epicgames\.com$/$important
-! Epic Games
-
 @@/(\.|^)xy\.fbcdn\.net$/$important
 @@/(\.|^)xz\.fbcdn\.net$/$important
-! Facebook CDN
 @@/(\.|^)graph\.facebook\.com$/$important
 @@/(\.|^)web\.facebook\.com$/$important
-! Facebook
 @@/(\.|^)icloud\.com$/$important
-! iCloud
 @@/(\.|^)netease\.com$/$important
 @@/(\.|^)easebar\.com$/$important
-! Marvel Rivals
 @@||cdn.tzatzikiweeb.moe$/$important
-! Decky Plugin
+@@||start.me/p/L1rEYQ/osint4all^$important
+@@||spur.us^$important
+@@||kali.download^$important
+@@||eventory.cc^$important
+@@||threatlocker.kb.help^$important
+@@||www.blackhatethicalhacking.com^$important
+@@||opendns.com^$important
+@@||cs.money^$important
+@@||auth.dota.trade^$important
+||metrics.cs.money^$important
+@@||nikto.online^$important
+@@||www.nslookup.io^$important
+@@||click.e.progressive.com^$important
+@@||dns9.quad9.net^$important
+@@||cdn4.volusion.store^$important
+@@||analytics.community-scripts.org^$important
+@@||napps-2.com^$important
+@@||www.beenverified.com^$important
+@@||click.email.beenverified.com^$important
+@@||beenverified.com^$important
+@@||costco.widget.custhelp.com^$important
+@@||pokernow.club^$important
+@@||cdn.tzatzikiweeb.moe^$important
+@@||yahoo.global.transmit.live^$important
+@@||jac.yahoosandbox.com^$important
+@@||static-cdn.spot.im^$important
+@@||api-2-0.spot.im^$important
+@@||www.browserling.com^$important
+@@||barraider.com^$important
+@@||stkt.co^$important
+@@||pac.zscalergov.net^$important
+@@||emb-api.com^$important
+@@||spot.im^$important
+@@||mobile-data.onetrust.io^$important
+@@||cdn.cookielaw.org^$important
+@@||sts.applovin.com^$client='10.0.10.106'
+@@||token.safebrowsing.apple^$important
+@@||pbd.yahoo.com^$important
+@@||ping.chartbeat.net^$important
+@@||csi.gstatic.com^$important
+@@||streamer.finance.yahoo.com^$important
+@@||finance.media.yahoo.com^$important
+@@||mychart.bronsonhealth.com^$important
+@@||apple.com^$important
+@@||media.yahoo.com^$important
+@@||decisiondeskhq.com^$important
+@@||www.celebrationcinema.com^$important
+@@||app.rocketmoney.com^$important
+@@||browser-intake-datadoghq.com^$important
+@@||widget.intercom.io^$important
+@@||stripe.com^$important
+@@||stripe.network^$important
+@@||api.honeycomb.io^$important
+@@||kendo.cdn.telerik.com^$important
+@@||www.kalamazoocity.org^$important
+@@||client-api.rocketmoney.com^$important
