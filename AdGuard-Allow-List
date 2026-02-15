@@ -98,3 +98,14 @@
 @@||web.facebook.com^$important
 @@||graph-fallback.facebook.com^$important
 @@||web-fallback.facebook.com^$important
+@@||auth-dist.awscconsumerinfo.autotrader.com^$important
+@@||fmt2.dl.dbolical.com^$important
+@@||api.automizely.com^$important
+@@||colab.new^$important
+@@||intuitcdn.net^$important
+@@||intuit.com^$important
+@@||forms.allrecipes.com^$important
+@@||s-cdn.anthropic.com^$important
+@@||diagnostics.windows.cloud.microsoft^$important
+@@||settings-win.data.microsoft.com^$important
+@@||ui.com^$important
